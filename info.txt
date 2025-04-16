@@ -1,0 +1,6 @@
+Build as of: c8bc55a64165721eda27b4b4f33202cfc9e011d3
+https://github.com/Javernaut/ffmpeg-android-maker/commit/c8bc55a64165721eda27b4b4f33202cfc9e011d3
+
+NDKversion: 29.0.13113456
+
+Modifications: none
